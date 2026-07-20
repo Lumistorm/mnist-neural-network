@@ -1,1 +1,1 @@
-MNIST number predictor built using python and numpy
+# MNIST number predictor built using python and numpy
